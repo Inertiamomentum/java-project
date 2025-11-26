@@ -52,5 +52,5 @@ presentation/
 ---
 
 ## 👨‍💻 Developer
-Megha Sudwal
+Megha Sudhwal
 
